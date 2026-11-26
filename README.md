@@ -143,6 +143,25 @@ ONNX. Cada modelo se aprueba por su huella SHA-256 exacta antes de poder ejecuta
 Escríbenos a <a href="mailto:datasquadoficial@gmail.com">datasquadoficial@gmail.com</a> y te contamos las opciones.
 </details>
 
+## Colabora
+
+¿Tienes una idea, encontraste un error o quieres sumarte? **Toda aportación cuenta**: las propuestas
+se revisan, se platican y las que encajan entran en las próximas versiones — con crédito para quien las propuso.
+
+- 💡 [Proponer una idea](../../issues/new?template=idea.yml)
+- 🐞 [Reportar un error](../../issues/new?template=error.yml)
+- 📧 Escríbenos a [datasquadoficial@gmail.com](mailto:datasquadoficial@gmail.com) para pruebas, alianzas o acceso al código.
+
+Lee la [guía para colaborar](CONTRIBUTING.md).
+
+### Colaboradores
+
+<a href="https://github.com/DataSquadOficial/Decide/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=DataSquadOficial/Decide" alt="Colaboradores">
+</a>
+
+<sub>Hecho con <a href="https://contrib.rocks">contrib.rocks</a>.</sub>
+
 ## Licencia
 
 © 2026 DataSquad. Todos los derechos reservados. DataSquad Decide es software propietario;
